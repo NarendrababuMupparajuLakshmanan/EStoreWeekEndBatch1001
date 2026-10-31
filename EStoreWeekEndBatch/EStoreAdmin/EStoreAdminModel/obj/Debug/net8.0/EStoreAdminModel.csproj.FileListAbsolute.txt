@@ -1,0 +1,13 @@
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\bin\Debug\net8.0\EStoreAdminModel.deps.json
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\bin\Debug\net8.0\EStoreAdminModel.dll
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\bin\Debug\net8.0\EStoreAdminModel.pdb
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\obj\Debug\net8.0\EStoreAdminModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\obj\Debug\net8.0\EStoreAdminModel.AssemblyInfoInputs.cache
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\obj\Debug\net8.0\EStoreAdminModel.AssemblyInfo.cs
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\obj\Debug\net8.0\EStoreAdminModel.csproj.CoreCompileInputs.cache
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\obj\Debug\net8.0\EStoreAdminModel.sourcelink.json
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\obj\Debug\net8.0\EStoreAdminModel.dll
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\obj\Debug\net8.0\refint\EStoreAdminModel.dll
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\obj\Debug\net8.0\EStoreAdminModel.pdb
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\obj\Debug\net8.0\ref\EStoreAdminModel.dll
+D:\GitSourceCode_WeekEndBatch_1001\EStoreWeekEndBatch\EStoreAdmin\EStoreAdminModel\obj\Debug\net8.0\EStoreAd.89315BC3.Up2Date

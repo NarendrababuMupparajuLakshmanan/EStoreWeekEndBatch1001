@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/EStoreAdmin/">
-    <Project Path="EStoreAdmin/EStoreAdminModule/EStoreAdminModule.csproj" />
+    <Project Path="EStoreAdmin/EStoreAdminModel/EStoreAdminModel.csproj" Id="b28a155e-90b2-4cfa-8e5e-471223c6dd52" />
+    <Project Path="EStoreAdmin/EStoreAdminModule/EStoreAdminModule.csproj" Id="8c315942-9063-4b29-b3fd-dc1b702dfb09" />
+    <Project Path="EStoreAdmin/EStoreAdminRepository/EStoreAdminRepository.csproj" Id="bf165d6e-eabf-4733-827f-0ba3dc424f56" />
+    <Project Path="EStoreAdmin/EstoreAdminService/EstoreAdminService.csproj" Id="c726c101-6ac4-44a2-8e1a-a6362f2c381d" />
   </Folder>
 </Solution>

@@ -1,0 +1,73 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using EStoreAdminModel.Brands;
+
+@model IEnumerable<BrandModel>
+
+
+<html>
+<head>
+    <title>List of Brands</title>
+    <link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="row mt-2">
+            <div class="h1 text-center bg-primary-subtle">
+                List of Brands
+            </div>
+        </div>
+
+        <div class="row mt-2">
+            <div class="col-sm-3 col-md-3 col-lg-3">
+                <a class="btn btn-outline-primary"
+                     asp-controller="Brand"
+                      asp-action="CreateBrand">
+                    Create Brand
+                </a>
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <table class="table table-active table-bordered table-light table-hover">
+                <thead>
+                    <tr>
+                        <td>Brand ID</td>
+                        <td>Brand Name</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.Count() == 0)
+                    {
+                        <tr>
+                            <td colspan="2">
+                                <div class="h2 text-center text-bg-danger">
+                                    There is no Brands Avaialble
+                                </div>
+
+                            </td>
+                        </tr>
+                    }
+                    else
+                    {
+                        @foreach (BrandModel brandModel in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @brandModel.Id
+                                </td>
+                                <td>
+                                    @brandModel.Name
+                                </td>
+                            </tr>
+                        }
+                    }
+
+                        
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+  
+</body>
+</html>
